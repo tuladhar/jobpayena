@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/10e3f274-cc87-4e16-a483-c6d487c32fab
 
 ## Architecture
 
-The project uses custom build of [NocoDB](https://github.com/nocodb/nocodb?tab=readme-ov-file) to power the job listing along with form submission. SQlite3 is used for backend database.
+The project uses custom build (with branding removed) of [NocoDB](https://github.com/nocodb/nocodb?tab=readme-ov-file) to power the job listing along with form submission. SQlite3 is used for backend database.
 
 For frontend, we use mixer of NocoDB iframe to show the dashboard which is then served via CloudFlare pages.
 
