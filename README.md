@@ -1,5 +1,5 @@
 # [Jobpayena](jobpayena.fyi) - Tracking Tech Jobs in Nepal
-[Jobpayena.fyi](jobpayena.fyi) tracks tech jobs in Nepal along with 100% anonymous salary data collection for a transparent tech industry, where professionals are fairly compensated for their skills.
+[Jobpayena.fyi](https://jobpayena.fyi) tracks tech jobs in Nepal along with 100% anonymous salary data collection for a transparent tech industry, where professionals are fairly compensated for their skills.
 
 > [!NOTE]
 > The jobs are tracks directly from company websites, and for now not relying on third-party job portals.
